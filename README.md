@@ -14,8 +14,8 @@
 ## How to run
 1. Clone this repo
 2. Run `yarn install` or `npm install`
-3. Run `yarn serve` for development
-4. Run `yarn build` to build for production & deployment
+3. Run `yarn serve` or `npm run serve` for development
+4. Run `yarn build` or `npm run build` to build for production & deployment
 
 
 ## Live demo
